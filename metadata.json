@@ -1,0 +1,7 @@
+{
+  "name": "Millionaire: Spanish & Armenian Edition",
+  "description": "Իսպաներեն-հայերեն «Ո՞վ է ուզում դառնալ միլիոնատեր» ինտերակտիվ ուսուցողական խաղ և թվերի կռահման բոնուս-փուլեր։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
